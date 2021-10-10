@@ -1,0 +1,1 @@
+This directory contains code for my practise tasks to refresh my memory about basic and advanced features of JavaScript
