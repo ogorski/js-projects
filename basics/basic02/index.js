@@ -1,17 +1,15 @@
-let car;
-car = 'Volkswagen';
+let car = 'Volkswagen';
 console.log(car);
 
-let math_plus;
-math_plus = 2+2;
+let math_plus = 2+2;
 console.log(math_plus);
 
 let cars;
 cars = ['Volkswagen', 'BMW', 'Lamborgini'];
 console.log(cars);
 
-let name = 'Oleh';
-console.log(name);
+let namePerson = 'Oleh';
+console.log(namePerson);
 
 // Variables cannot be as reserved keyword
 // Variables should and must be meaningful
