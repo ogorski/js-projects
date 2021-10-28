@@ -5,7 +5,4 @@ let selectedItem = null;
 
 console.log(firstName, surname, age);
 
-typeof firstName;
-typeof age;
-
-console.log(typeof firstName, typeof age);
+console.log(typeof firstName, typeof age, typeof selectedItem, typeof surname);
